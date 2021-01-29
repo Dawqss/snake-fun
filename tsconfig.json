@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "allowSyntheticDefaultImports": true,
+    "target": "es5",
+    "allowJs": true
+  },
+  "include": [
+    "src"
+  ],
+  "files": [
+    "src/index.ts"
+  ]
+}
